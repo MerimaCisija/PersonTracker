@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1a4d40e5d41c45f5affa9fd2a742b973" Name="Diagram1">
+        <EntityTypeShape EntityType="PersonTrackerDBModel.Brada" Width="1.5" PointX="0.75" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonTrackerDBModel.Celjust" Width="1.5" PointX="0.75" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonTrackerDBModel.Glava" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonTrackerDBModel.Komentar" Width="1.5" PointX="10.25" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonTrackerDBModel.Korisnik" Width="1.5" PointX="5.75" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonTrackerDBModel.Kosa" Width="1.5" PointX="0.75" PointY="11.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonTrackerDBModel.Nestali" Width="1.5" PointX="8" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonTrackerDBModel.Nos" Width="1.5" PointX="0.75" PointY="13.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonTrackerDBModel.Obrve" Width="1.5" PointX="0.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonTrackerDBModel.Oci" Width="1.5" PointX="0.75" PointY="18.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonTrackerDBModel.Prestupnik" Width="1.5" PointX="8" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonTrackerDBModel.Skica" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonTrackerDBModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonTrackerDBModel.Usne" Width="1.5" PointX="0.75" PointY="20.5" IsExpanded="true" />
+        <AssociationConnector Association="PersonTrackerDBModel.FK_Brada_Brada" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonTrackerDBModel.FK_Skica_Brada" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonTrackerDBModel.FK_Skica_Celjust" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonTrackerDBModel.FK_Skica_Glava" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonTrackerDBModel.FK_Komentar_Korisnik" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonTrackerDBModel.FK_Komentar_Nestali" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonTrackerDBModel.FK_Komentar_Prestupnik" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonTrackerDBModel.FK_Korisnik_Korisnik" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonTrackerDBModel.FK_Nestali_Korisnik" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonTrackerDBModel.FK_Prestupnik_Korisnik" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonTrackerDBModel.FK_Skica_Kosa" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonTrackerDBModel.FK_Skica_Nos" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonTrackerDBModel.FK_Skica_Obrve" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonTrackerDBModel.FK_Skica_Oci" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonTrackerDBModel.FK_Skica_Usne" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

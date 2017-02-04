@@ -1,0 +1,130 @@
+﻿.cc-selector input{
+    margin:0;padding:0;
+    -webkit-appearance:none;
+       -moz-appearance:none;
+            appearance:none;
+}
+.glava1{background-image:url(Skica/Glava/1.png);}
+.glava2{background-image:url(Skica/Glava/2.png);}
+.glava3{background-image:url(Skica/Glava/3.png);}
+.glava4{background-image:url(Skica/Glava/4.png);}
+.glava5{background-image:url(Skica/Glava/5.png);}
+.glava6{background-image:url(Skica/Glava/6.png);}
+.glava7{background-image:url(Skica/Glava/7.png);}
+.glava8{background-image:url(Skica/Glava/8.png);}
+.glava9{background-image:url(Skica/Glava/9.png);}
+
+.celjust1 {background-image:url(Skica/Celjust/1.png)}
+.celjust2 {background-image:url(Skica/Celjust/2.png)}
+.celjust3 {background-image:url(Skica/Celjust/3.png)}
+.celjust4 {background-image:url(Skica/Celjust/4.png)}
+.celjust5 {background-image:url(Skica/Celjust/5.png)}
+.celjust6 {background-image:url(Skica/Celjust/6.png)}
+.celjust7 {background-image:url(Skica/Celjust/7.png)}
+.celjust8 {background-image:url(Skica/Celjust/8.png)}
+.celjust9 {background-image:url(Skica/Celjust/9.png)}
+
+.oci1 {background-image:url(Skica/Oci/1.png)}
+.oci2 {background-image:url(Skica/Oci/2.png)}
+.oci3 {background-image:url(Skica/Oci/3.png)}
+.oci4 {background-image:url(Skica/Oci/4.png)}
+.oci5 {background-image:url(Skica/Oci/5.png)}
+.oci6 {background-image:url(Skica/Oci/6.png)}
+.oci7 {background-image:url(Skica/Oci/7.png)}
+.oci8 {background-image:url(Skica/Oci/8.png)}
+.oci9 {background-image:url(Skica/Oci/9.png)}
+
+.obrve1 {background-image:url(Skica/Obrve/1.png)}
+.obrve2 {background-image:url(Skica/Obrve/2.png)}
+.obrve3 {background-image:url(Skica/Obrve/3.png)}
+.obrve4 {background-image:url(Skica/Obrve/4.png)}
+.obrve5 {background-image:url(Skica/Obrve/5.png)}
+.obrve6 {background-image:url(Skica/Obrve/6.png)}
+.obrve7 {background-image:url(Skica/Obrve/7.png)}
+.obrve8 {background-image:url(Skica/Obrve/8.png)}
+.obrve9 {background-image:url(Skica/Obrve/9.png)}
+
+.nos1 {background-image:url(Skica/Nos/1.png)}
+.nos2 {background-image:url(Skica/Nos/2.png)}
+.nos3 {background-image:url(Skica/Nos/3.png)}
+.nos4 {background-image:url(Skica/Nos/4.png)}
+.nos5 {background-image:url(Skica/Nos/5.png)}
+.nos6 {background-image:url(Skica/Nos/6.png)}
+.nos7 {background-image:url(Skica/Nos/7.png)}
+.nos8 {background-image:url(Skica/Nos/8.png)}
+.nos9 {background-image:url(Skica/Nos/9.png)}
+
+.usta1 {background-image:url(Skica/Usta/1.png)}
+.usta2 {background-image:url(Skica/Usta/2.png)}
+.usta3 {background-image:url(Skica/Usta/3.png)}
+.usta4 {background-image:url(Skica/Usta/4.png)}
+.usta5 {background-image:url(Skica/Usta/5.png)}
+.usta6 {background-image:url(Skica/Usta/6.png)}
+.usta7 {background-image:url(Skica/Usta/7.png)}
+.usta8 {background-image:url(Skica/Usta/8.png)}
+.usta9 {background-image:url(Skica/Usta/9.png)}
+
+.brada1 {background-image:url(Skica/Brada/1.png)}
+.brada2 {background-image:url(Skica/Brada/2.png)}
+.brada3 {background-image:url(Skica/Brada/3.png)}
+.brada4 {background-image:url(Skica/Brada/4.png)}
+.brada5 {background-image:url(Skica/Brada/5.png)}
+.brada6 {background-image:url(Skica/Brada/6.png)}
+.brada7 {background-image:url(Skica/Brada/7.png)}
+.brada8 {background-image:url(Skica/Brada/8.png)}
+.brada9 {background-image:url(Skica/Brada/9.png)}
+
+.kosa1 {background-image:url(Skica/Kosa/1.png)}
+.kosa2 {background-image:url(Skica/Kosa/2.png)}
+.kosa3 {background-image:url(Skica/Kosa/3.png)}
+.kosa4 {background-image:url(Skica/Kosa/4.png)}
+.kosa5 {background-image:url(Skica/Kosa/5.png)}
+.kosa6 {background-image:url(Skica/Kosa/6.png)}
+.kosa7 {background-image:url(Skica/Kosa/7.png)}
+.kosa8 {background-image:url(Skica/Kosa/8.png)}
+.kosa9 {background-image:url(Skica/Kosa/9.png)}
+
+.cc-selector input:active +.drinkcard-cc{opacity: .9;}
+.cc-selector input:checked +.drinkcard-cc{
+    -webkit-filter: none;
+       -moz-filter: none;
+            filter: none;
+            outline: 3px solid black;
+}
+.drinkcard-cc{
+    cursor:pointer;
+    background-size:contain;
+    background-repeat:no-repeat;
+    display:inline-block;
+    width:200px;height:150px;
+    -webkit-transition: all 100ms ease-in;
+       -moz-transition: all 100ms ease-in;
+            transition: all 100ms ease-in;
+    -webkit-filter: brightness(1.2) grayscale(1) opacity(.7);
+       -moz-filter: brightness(1.2) grayscale(1) opacity(.7);
+            filter: brightness(1.2) grayscale(1) opacity(.7);
+}
+.drinkcard-cc:hover{
+    -webkit-filter: brightness(.9) grayscale(.5) opacity(.9);
+       -moz-filter: brightness(.9) grayscale(.5) opacity(.9);
+            filter: brightness(.9) grayscale(.5) opacity(.9);
+}
+
+a:visited{color:#888}
+a{color:#444;text-decoration:none;}
+p{margin-bottom:.3em;}
+
+.skica{
+    display:block;
+    float:left;
+    width:50%
+}
+
+canvas{
+    position: fixed;
+    width: 500px;
+    height:500px;
+    top: 15%;
+    right: 5%;
+    border: solid 3px black;
+}

@@ -1,0 +1,321 @@
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\ApplicationInsights.config
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\csc.exe
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\vbc.exe
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\VBCSCompiler.exe
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTrackerApplication.dll.config
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTrackerApplication.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTrackerApplication.pdb
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.Web.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.WindowsServer.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.ApplicationInsights.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Helpers.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Mvc.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Razor.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.Deployment.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.Razor.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.Web.xml
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.WindowsServer.xml
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.ApplicationInsights.xml
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Razor.xml
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.xml
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.Deployment.xml
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.Razor.xml
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Helpers.xml
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Mvc.xml
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\obj\Debug\PersonTrackerApplication.csprojResolveAssemblyReference.cache
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\obj\Debug\PersonTrackerApplication.dll
+c:\users\dzenana\documents\visual studio 2015\Projects\PersonTrackerApplication\PersonTrackerApplication\obj\Debug\PersonTrackerApplication.pdb
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\ApplicationInsights.config
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\csc.exe
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\vbc.exe
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTrackerApplication.dll.config
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTrackerApplication.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTrackerApplication.pdb
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.Web.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Helpers.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Mvc.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Razor.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.Razor.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.Web.xml
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Razor.xml
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.xml
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.Razor.xml
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Helpers.xml
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Mvc.xml
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\obj\Debug\PersonTrackerApplication.csprojResolveAssemblyReference.cache
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\obj\Debug\PersonTrackerApplication.dll
+C:\Users\Merima\Desktop\Baze podataka\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\obj\Debug\PersonTrackerApplication.pdb
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\ApplicationInsights.config
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\csc.exe
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\vbc.exe
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTrackerApplication.dll.config
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTrackerApplication.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTrackerApplication.pdb
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.Web.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Helpers.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Mvc.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Razor.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.Web.xml
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Razor.xml
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.xml
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Helpers.xml
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Mvc.xml
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\obj\Debug\PersonTrackerApplication.csprojResolveAssemblyReference.cache
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\obj\Debug\PersonTrackerApplication.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\obj\Debug\PersonTrackerApplication.pdb
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Newtonsoft.Json.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Cors.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Http.Cors.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Http.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Newtonsoft.Json.xml
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Http.xml
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Http.Cors.xml
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\EntityFramework.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\EntityFramework.xml
+C:\Users\Dzenana\Desktop\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\ApplicationInsights.config
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\csc.exe
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\vbc.exe
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTrackerApplication.dll.config
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTrackerApplication.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTrackerApplication.pdb
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\EntityFramework.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.Web.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Newtonsoft.Json.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Cors.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Helpers.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Http.Cors.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Http.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Mvc.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Razor.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.Razor.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\EntityFramework.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.Web.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Newtonsoft.Json.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Http.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Http.Cors.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Razor.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.Razor.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Helpers.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Mvc.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\obj\Debug\PersonTrackerApplication.csprojResolveAssemblyReference.cache
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\obj\Debug\PersonTrackerApplication.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\obj\Debug\PersonTrackerApplication.pdb
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Skica\Glava\1.png
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTracker.DataModel.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTracker.Services.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.Owin.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Optimization.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Owin.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Http.Owin.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTracker.DataModel.pdb
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTracker.Services.pdb
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.Owin.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Optimization.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Http.Owin.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Merima\Documents\GitHub\PersonTrackerApp\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\ApplicationInsights.config
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\csc.exe
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\vbc.exe
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Skica\Glava\1.png
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTrackerApplication.dll.config
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTrackerApplication.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTrackerApplication.pdb
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\EntityFramework.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.Web.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Newtonsoft.Json.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTracker.Services.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Cors.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Helpers.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Http.Cors.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Http.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Mvc.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Razor.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.Razor.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.Owin.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Optimization.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Owin.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTracker.DataModel.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Http.Owin.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTracker.Services.pdb
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\EntityFramework.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.Web.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Newtonsoft.Json.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Http.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Http.Cors.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Razor.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Webpages.Razor.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Helpers.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Mvc.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.Owin.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Optimization.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\PersonTracker.DataModel.pdb
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Http.Owin.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\obj\Debug\PersonTrackerApplication.csprojResolveAssemblyReference.cache
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\obj\Debug\PersonTrackerApplication.dll
+C:\Users\Merima\Desktop\PersonTrackerApp-master\PersonTrackerApp-master\PersonTrackerApplication\PersonTrackerApplication\obj\Debug\PersonTrackerApplication.pdb

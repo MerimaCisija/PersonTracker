@@ -1,0 +1,385 @@
+﻿<link href="Content/bootstrap.css" rel="stylesheet" />
+<link href="Content/bootstrap-theme.css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="Skice.css">
+
+<link rel="icon" href="images/favicon.ico">
+<link rel="shortcut icon" href="images/favicon.ico" />
+<link rel="stylesheet" href="css/animation.css">
+<link rel="stylesheet" href="css/camera.css">
+<link rel="stylesheet" href="css/contact-form.css">
+<link rel="stylesheet" href="css/touchTouch.css">
+<link rel="stylesheet" href="css/style.css">
+<script src="js/jquery.js"></script>
+<script src="js/jquery-migrate-1.1.1.js"></script>
+<script src="js/jquery.easing.1.3.js"></script>
+<script src="js/script.js"></script>
+<script src="js/jquery.ui.totop.js"></script>
+<script src="js/touchTouch.jquery.js"></script>
+<script src="js/isotope.pkgd.js"></script>
+<script src="js/TMForm.js"></script>
+<script src="js/modal.js"></script>
+<script src="js/camera.js"></script>
+
+<div ng-app="mainModule">
+    <section class="content">
+        <div style="background-image:url(images/main_texture.png)" class="container container_12">
+            <div class="form-horizontal grid_12">
+                <div class="text-1 form-group">
+                    <h2 style="text-align:left; margin-left:10%">Prijava prestupnika</h2>
+                </div>
+                <br />
+                <div class="form-inline">
+                    <h3>PODACI O DELINKVENTU</h3>
+                </div>
+                <div class="form-group">
+                    <label for="opis" class="control-label col-md-2">Opis: </label>
+                    <div class="col-xs-4">
+                        <textarea ng-model="opis" class="form-control" id="opis" rows="4"></textarea>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-md-2">Mjesto delinkvencije: </label>
+                    <div class="col-xs-4">
+                        <input ng-model="mjesto" type="text" name="mjesto" class="form-control" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-md-2">Datum delinkvencije: </label>
+                    <div class="col-xs-4">
+                        <input ng-model="datum" type="date" name="datum" class="form-control" />
+                    </div>
+                </div>
+                <div id="skica">
+                    <div ng-click='crtajSkicu(glava, celjust, kosa, obrve, oci, nos, usta, brada)' class="cc-selector">
+                        <h5>Glava:</h5>
+                        <input ng-model="glava" id="glava1" type="radio" name="credit-card" value="1" />
+                        <label class="drinkcard-cc glava1" for="glava1"></label>
+
+                        <input ng-model="glava" id="glava2" type="radio" name="credit-card" value="2" />
+                        <label class="drinkcard-cc glava2" for="glava2"></label>
+
+                        <input ng-model="glava" id="glava3" type="radio" name="credit-card" value="3" />
+                        <label class="drinkcard-cc glava3" for="glava3"></label>
+
+                        <br />
+
+                        <input ng-model="glava" id="glava4" type="radio" name="credit-card" value="4" />
+                        <label class="drinkcard-cc glava4" for="glava4"></label>
+
+                        <input ng-model="glava" id="glava5" type="radio" name="credit-card" value="5" />
+                        <label class="drinkcard-cc glava5" for="glava5"></label>
+
+                        <input ng-model="glava" id="glava6" type="radio" name="credit-card" value="6" />
+                        <label class="drinkcard-cc glava6" for="glava6"></label>
+
+                        <br />
+
+                        <input ng-model="glava" id="glava7" type="radio" name="credit-card" value="7" />
+                        <label class="drinkcard-cc glava7" for="glava7"></label>
+
+                        <input ng-model="glava" id="glava8" type="radio" name="credit-card" value="8" />
+                        <label class="drinkcard-cc glava8" for="glava8"></label>
+
+                        <input ng-model="glava" id="glava9" type="radio" name="credit-card" value="9" />
+                        <label class="drinkcard-cc glava9" for="glava9"></label>
+                    </div>
+
+                    <div ng-click='crtajSkicu(glava, celjust, kosa, obrve, oci, nos, usta, brada)' class="cc-selector">
+                        <h5>Čeljust:</h5>
+                        <input ng-model="celjust" id="celjust1" type="radio" name="celjust" value="1" />
+                        <label class="drinkcard-cc celjust1" for="celjust1"></label>
+
+                        <input ng-model="celjust" id="celjust2" type="radio" name="celjust" value="2" />
+                        <label class="drinkcard-cc celjust2" for="celjust2"></label>
+
+                        <input ng-model="celjust" id="celjust3" type="radio" name="celjust" value="3" />
+                        <label class="drinkcard-cc celjust3" for="celjust3"></label>
+
+                        <br />
+
+                        <input ng-model="celjust" id="celjust4" type="radio" name="celjust" value="4" />
+                        <label class="drinkcard-cc celjust4" for="celjust4"></label>
+
+                        <input ng-model="celjust" id="celjust5" type="radio" name="celjust" value="5" />
+                        <label class="drinkcard-cc celjust5" for="celjust5"></label>
+
+                        <input ng-model="celjust" id="celjust6" type="radio" name="celjust" value="6" />
+                        <label class="drinkcard-cc celjust6" for="celjust6"></label>
+
+                        <br />
+
+                        <input ng-model="celjust" id="celjust7" type="radio" name="celjust" value="7" />
+                        <label class="drinkcard-cc celjust7" for="celjust7"></label>
+
+                        <input ng-model="celjust" id="celjust8" type="radio" name="celjust" value="8" />
+                        <label class="drinkcard-cc celjust8" for="celjust8"></label>
+
+                        <input ng-model="celjust" id="celjust9" type="radio" name="celjust" value="9" />
+                        <label class="drinkcard-cc celjust9" for="celjust9"></label>
+                    </div>
+
+
+                    <div ng-click='crtajSkicu(glava, celjust, kosa, obrve, oci, nos, usta, brada)' class="cc-selector">
+                        <h5>Oči:</h5>
+                        <input ng-model="oci" id="oci1" type="radio" name="oci" value="1" />
+                        <label class="drinkcard-cc oci1" for="oci1"></label>
+
+                        <input ng-model="oci" id="oci2" type="radio" name="oci" value="2" />
+                        <label class="drinkcard-cc oci2" for="oci2"></label>
+
+                        <input ng-model="oci" id="oci3" type="radio" name="oci" value="3" />
+                        <label class="drinkcard-cc oci3" for="oci3"></label>
+
+                        <br />
+
+                        <input ng-model="oci" id="oci4" type="radio" name="oci" value="4" />
+                        <label class="drinkcard-cc oci4" for="oci4"></label>
+
+                        <input ng-model="oci" id="oci5" type="radio" name="oci" value="5" />
+                        <label class="drinkcard-cc oci5" for="oci5"></label>
+
+                        <input ng-model="oci" id="oci6" type="radio" name="oci" value="6" />
+                        <label class="drinkcard-cc oci6" for="oci6"></label>
+
+                        <br />
+
+                        <input ng-model="oci" id="oci7" type="radio" name="oci" value="7" />
+                        <label class="drinkcard-cc oci7" for="oci7"></label>
+
+                        <input ng-model="oci" id="oci8" type="radio" name="oci" value="8" />
+                        <label class="drinkcard-cc oci8" for="oci8"></label>
+
+                        <input ng-model="oci" id="oci9" type="radio" name="oci" value="9" />
+                        <label class="drinkcard-cc oci9" for="oci9"></label>
+                    </div>
+
+
+                    <div ng-click='crtajSkicu(glava, celjust, kosa, obrve, oci, nos, usta, brada)' class="cc-selector">
+                        <h5>Obrve:</h5>
+                        <input ng-model="obrve" id="obrve1" type="radio" name="obrve" value="1" />
+                        <label class="drinkcard-cc obrve1" for="obrve1"></label>
+
+                        <input ng-model="obrve" id="obrve2" type="radio" name="obrve" value="2" />
+                        <label class="drinkcard-cc obrve2" for="obrve2"></label>
+
+                        <input ng-model="obrve" id="obrve3" type="radio" name="obrve" value="3" />
+                        <label class="drinkcard-cc obrve3" for="obrve3"></label>
+
+                        <br />
+
+                        <input ng-model="obrve" id="obrve4" type="radio" name="obrve" value="4" />
+                        <label class="drinkcard-cc obrve4" for="obrve4"></label>
+
+                        <input ng-model="obrve" id="obrve5" type="radio" name="obrve" value="5" />
+                        <label class="drinkcard-cc obrve5" for="obrve5"></label>
+
+                        <input ng-model="obrve" id="obrve6" type="radio" name="obrve" value="6" />
+                        <label class="drinkcard-cc obrve6" for="obrve6"></label>
+
+                        <br />
+
+                        <input ng-model="obrve" id="obrve7" type="radio" name="obrve" value="7" />
+                        <label class="drinkcard-cc obrve7" for="obrve7"></label>
+
+                        <input ng-model="obrve" id="obrve8" type="radio" name="obrve" value="8" />
+                        <label class="drinkcard-cc obrve8" for="obrve8"></label>
+
+                        <input ng-model="obrve" id="obrve9" type="radio" name="obrve" value="9" />
+                        <label class="drinkcard-cc obrve9" for="obrve9"></label>
+                    </div>
+
+
+                    <div ng-click='crtajSkicu(glava, celjust, kosa, obrve, oci, nos, usta, brada)' class="cc-selector">
+                        <h5>Nos:</h5>
+                        <input ng-model="nos" id="nos1" type="radio" name="nos" value="1" />
+                        <label class="drinkcard-cc nos1" for="nos1"></label>
+
+                        <input ng-model="nos" id="nos2" type="radio" name="nos" value="2" />
+                        <label class="drinkcard-cc nos2" for="nos2"></label>
+
+                        <input ng-model="nos" id="nos3" type="radio" name="nos" value="3" />
+                        <label class="drinkcard-cc nos3" for="nos3"></label>
+
+                        <br />
+
+                        <input ng-model="nos" id="nos4" type="radio" name="nos" value="4" />
+                        <label class="drinkcard-cc nos4" for="nos4"></label>
+
+                        <input ng-model="nos" id="nos5" type="radio" name="nos" value="5" />
+                        <label class="drinkcard-cc nos5" for="nos5"></label>
+
+                        <input ng-model="nos" id="nos6" type="radio" name="nos" value="6" />
+                        <label class="drinkcard-cc nos6" for="nos6"></label>
+
+                        <br />
+
+                        <input ng-model="nos" id="nos7" type="radio" name="nos" value="7" />
+                        <label class="drinkcard-cc nos7" for="nos7"></label>
+
+                        <input ng-model="nos" id="nos8" type="radio" name="nos" value="8" />
+                        <label class="drinkcard-cc nos8" for="nos8"></label>
+
+                        <input ng-model="nos" id="nos9" type="radio" name="nos" value="9" />
+                        <label class="drinkcard-cc nos9" for="nos9"></label>
+                    </div>
+
+
+                    <div ng-click='crtajSkicu(glava, celjust, kosa, obrve, oci, nos, usta, brada)' class="cc-selector">
+                        <h5>Usta:</h5>
+                        <input ng-model="usta" id="usta1" type="radio" name="usta" value="1" />
+                        <label class="drinkcard-cc usta1" for="usta1"></label>
+
+                        <input ng-model="usta" id="usta2" type="radio" name="usta" value="2" />
+                        <label class="drinkcard-cc usta2" for="usta2"></label>
+
+                        <input ng-model="usta" id="usta3" type="radio" name="usta" value="3" />
+                        <label class="drinkcard-cc usta3" for="usta3"></label>
+
+                        <br />
+
+                        <input ng-model="usta" id="usta4" type="radio" name="usta" value="4" />
+                        <label class="drinkcard-cc usta4" for="usta4"></label>
+
+                        <input ng-model="usta" id="usta5" type="radio" name="usta" value="5" />
+                        <label class="drinkcard-cc usta5" for="usta5"></label>
+
+                        <input ng-model="usta" id="usta6" type="radio" name="usta" value="6" />
+                        <label class="drinkcard-cc usta6" for="usta6"></label>
+
+                        <br />
+
+                        <input ng-model="usta" id="usta7" type="radio" name="usta" value="7" />
+                        <label class="drinkcard-cc usta7" for="usta7"></label>
+
+                        <input ng-model="usta" id="usta8" type="radio" name="usta" value="8" />
+                        <label class="drinkcard-cc usta8" for="usta8"></label>
+
+                        <input ng-model="usta" id="usta9" type="radio" name="usta" value="9" />
+                        <label class="drinkcard-cc usta9" for="usta9"></label>
+                    </div>
+
+
+                    <div ng-click='crtajSkicu(glava, celjust, kosa, obrve, oci, nos, usta, brada)' class="cc-selector">
+                        <h5>Brada:</h5>
+                        <input ng-model="brada" id="brada1" type="radio" name="brada" value="1" />
+                        <label class="drinkcard-cc brada1" for="brada1"></label>
+
+                        <input ng-model="brada" id="brada2" type="radio" name="brada" value="2" />
+                        <label class="drinkcard-cc brada2" for="brada2"></label>
+
+                        <input ng-model="brada" id="brada3" type="radio" name="brada" value="3" />
+                        <label class="drinkcard-cc brada3" for="brada3"></label>
+
+                        <br />
+
+                        <input ng-model="brada" id="brada4" type="radio" name="brada" value="4" />
+                        <label class="drinkcard-cc brada4" for="brada4"></label>
+
+                        <input ng-model="brada" id="brada5" type="radio" name="brada" value="5" />
+                        <label class="drinkcard-cc brada5" for="brada5"></label>
+
+                        <input ng-model="brada" id="brada6" type="radio" name="brada" value="6" />
+                        <label class="drinkcard-cc brada6" for="brada6"></label>
+
+                        <br />
+
+                        <input ng-model="brada" id="brada7" type="radio" name="brada" value="7" />
+                        <label class="drinkcard-cc brada7" for="brada7"></label>
+
+                        <input ng-model="brada" id="brada8" type="radio" name="brada" value="8" />
+                        <label class="drinkcard-cc brada8" for="brada8"></label>
+
+                        <input ng-model="brada" id="brada9" type="radio" name="brada" value="9" />
+                        <label class="drinkcard-cc brada9" for="brada9"></label>
+                    </div>
+
+
+                    <div ng-click='crtajSkicu(glava, celjust, kosa, obrve, oci, nos, usta, brada)' class="cc-selector">
+                        <h5>Kosa:</h5>
+                        <input ng-model="kosa" id="kosa1" type="radio" name="kosa" value="1" />
+                        <label class="drinkcard-cc kosa1" for="kosa1"></label>
+
+                        <input ng-model="kosa" id="kosa2" type="radio" name="kosa" value="2" />
+                        <label class="drinkcard-cc kosa2" for="kosa2"></label>
+
+                        <input ng-model="kosa" id="kosa3" type="radio" name="kosa" value="3" />
+                        <label class="drinkcard-cc kosa3" for="kosa3"></label>
+
+                        <br />
+
+                        <input ng-model="kosa" id="kosa4" type="radio" name="kosa" value="4" />
+                        <label class="drinkcard-cc kosa4" for="kosa4"></label>
+
+                        <input ng-model="kosa" id="kosa5" type="radio" name="kosa" value="5" />
+                        <label class="drinkcard-cc kosa5" for="kosa5"></label>
+
+                        <input ng-model="kosa" id="kosa6" type="radio" name="kosa" value="6" />
+                        <label class="drinkcard-cc kosa6" for="kosa6"></label>
+
+                        <br />
+
+                        <input ng-model="kosa" id="kosa7" type="radio" name="kosa" value="7" />
+                        <label class="drinkcard-cc kosa7" for="kosa7"></label>
+
+                        <input ng-model="kosa" id="kosa8" type="radio" name="kosa" value="8" />
+                        <label class="drinkcard-cc kosa8" for="kosa8"></label>
+
+                        <input ng-model="kosa" id="kosa9" type="radio" name="kosa" value="9" />
+                        <label class="drinkcard-cc kosa9" for="kosa9"></label>
+                    </div>
+                </div>
+                <br /><br />
+                <div id="kanvas">
+                    <canvas style="border:3px solid indigo" id="canvas"></canvas>
+                </div>
+
+
+            </div>
+        </div>
+
+
+
+        <div style="background-image:url(images/main_texture.png)" class="container container_12">
+            <div class="form-horizontal grid_12">
+                <br />
+                <div class="form-inline">
+                    <h3>VAŠI PODACI*</h3>
+                </div>
+                <br />
+                <div class="form-group">
+                    <label class="control-label col-md-2">Ime: </label>
+                    <div class="col-xs-4">
+                        <input type="text" ng-model="Ime" id="ime" name="ime" class="form-control" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-md-2">Prezime: </label>
+                    <div class="col-xs-4">
+                        <input type="text" id="prezime" ng-model="Prezime" name="prezime" class="form-control" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-md-2">Email: </label>
+                    <div class="col-xs-4">
+                        <input type="text" id="email" ng-model="Email" name="email" class="form-control" />
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-md-2">*NAPOMENA: Vaši podaci nisu vidljivi drugim korisnicima.</label>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-md-2"></label>
+                <div class="offset-sm-2 col-sm-10">
+                    <button type="submit" class="btn btn-primary" ng-click="dodajPrestupnika(glava, celjust, oci, obrve, nos, usta, mjesto, datum, Ime, Prezime, Email)">Prijavi</button>
+                </div>
+            </div>
+            <br /><br />
+            <div style="color:white" id="greske">
+                <br />
+            </div>
+        </div>
+    </section>
+</div>
+
